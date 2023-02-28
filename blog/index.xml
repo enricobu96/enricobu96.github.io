@@ -1,1 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Enrico Buratto</title><link>/blog/</link><description>Recent content on Enrico Buratto</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Enrico Buratto</title>
+    <link>/blog/</link>
+    <description>Recent content in Blog on Enrico Buratto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/blog/2023-02-28/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2023-02-28/</guid>
+      <description>Secondo</description>
+      <content>Secondo</content>
+    </item>
+    
+  </channel>
+</rss>
